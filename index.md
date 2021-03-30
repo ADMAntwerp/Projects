@@ -3,7 +3,7 @@
 
 |            | Algorithm                                                                                                              | Reference                    |
 |------------|------------------------------------------------------------------------------------------------------------------------|------------------------------|
-| TEXT       | SEDC                                                                                                                   | Martens and Provost (2014)   |
+| TEXT       | [SEDC](https://github.com/ADMAntwerp/edc)                                                                              | Martens and Provost (2014)   |
 |            | [LIME-C](https://github.com/ADMAntwerp/LimeCounterfactual), [SHAP-C](https://github.com/ADMAntwerp/ShapCounterfactual) | Ramon et al (2020)           |
 | BEHAVIORAL | [SEDC](https://github.com/ADMAntwerp/edc)                                                                              | Martens and Provost (2014)   |
 |            | [LIME-C](https://github.com/ADMAntwerp/LimeCounterfactual), [SHAP-C](https://github.com/ADMAntwerp/ShapCounterfactual) | Ramon et al (2020)           |
