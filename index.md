@@ -1,14 +1,14 @@
 ##### Work on counterfactual explanations by Applied Data Mining (UAntwerp)
 
 
-|| Algorithm | Reference |
-|-|-|-|
-|TEXT| SEDC | Martens and Provost (2014)|
-|| [LIME-C](https://github.com/ADMAntwerp/LimeCounterfactual), [SHAP-C](https://github.com/ADMAntwerp/ShapCounterfactual) | Ramon et al (2020)|
-|BEHAVIORAL| [SEDC](https://github.com/ADMAntwerp/edc) | Martens and Provost (2014)| |
-|| [LIME-C](https://github.com/ADMAntwerp/LimeCounterfactual), [SHAP-C](https://github.com/ADMAntwerp/ShapCounterfactual)| Ramon et al (2020)|
-|IMAGE| SEDC(-T)| Vermeire and Martens (2020)|
-|STRUCTURED| NICE  | Brughmans and Martens (2021)|
+|            | Algorithm                                                                                                              | Reference                    |
+|------------|------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| TEXT       | SEDC                                                                                                                   | Martens and Provost (2014)   |
+|            | [LIME-C](https://github.com/ADMAntwerp/LimeCounterfactual), [SHAP-C](https://github.com/ADMAntwerp/ShapCounterfactual) | Ramon et al (2020)           |
+| BEHAVIORAL | [SEDC](https://github.com/ADMAntwerp/edc)                                                                              | Martens and Provost (2014)   |
+|            | [LIME-C](https://github.com/ADMAntwerp/LimeCounterfactual), [SHAP-C](https://github.com/ADMAntwerp/ShapCounterfactual) | Ramon et al (2020)           |
+| IMAGE      | SEDC(-T)                                                                                                               | Vermeire and Martens (2020)  |
+| STRUCTURED | NICE                                                                                                                   | Brughmans and Martens (2021) |
 
 **Counterfactual explanations were introduced in the predictive modeling domain by Martens and Provost in 2014.**
 
