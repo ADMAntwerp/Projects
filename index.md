@@ -1,7 +1,3 @@
-# Applied Data Mining Research Group
-### [Institutional Website](https://www.uantwerpen.be/en/research-groups/applied-data-mining/)
-
-
 ### Work on counterfactual explanations by Applied Data Mining (UAntwerp)
 
 
