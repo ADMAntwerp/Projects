@@ -1,4 +1,4 @@
-### Work on counterfactual explanations by Applied Data Mining (UAntwerp)
+##### Work on counterfactual explanations by Applied Data Mining (UAntwerp)
 
 
 || Algorithm | Reference |
