@@ -19,7 +19,7 @@ For image data: the evidence counterfactual would indicate which parts of the pi
 For textual data: when predicting which candidates to invite for an interview to a job opening, based on the words of the resume of the candidate, one would want to explain why someone is classified as being unsuitable for an engineering position. An example EdC could be: If the words *“philosophy, mcdonalds and COBOL“* would not appear on your resume then the class would change to suitable for an engineering position. This provides insight that the model has learnt not to invite philosophy graduates that are (former) mcdonalds employees and are working with COBOL.
 
 
-
+![Image counterfactual examples](resources/cf_examples.jpeg)
 **Why counterfactual explanations?**
 They explain individual decisions made by models, which most end users are interested in. Advantages over other approaches are that there is no limitation on the complexity of the model, it avoids disclosing the model to the end user, it provides a concrete justification for a decision, allows to automate the challenging task of generating explanations, and provides explanations that comply with the GDPR legal requirements on this matter. The European Parliamentary Research Service recently came out with [a study](https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_STU(2019)624261) on the opportunities and challenges of *“understanding algorithmic decision-making”*, where the need for explanations is motivated in detail. In their conclusion, they state that *“affected people will probably be more interested in the reasons for the decisions that affect them (local and causal explanations) and how they can influence them (counterfactual explanations)”* 
 
