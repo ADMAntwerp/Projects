@@ -20,6 +20,7 @@ For textual data: when predicting which candidates to invite for an interview to
 
 
 ![Image counterfactual examples](resources/cf_examples.jpeg)
+
 **Why counterfactual explanations?**
 They explain individual decisions made by models, which most end users are interested in. Advantages over other approaches are that there is no limitation on the complexity of the model, it avoids disclosing the model to the end user, it provides a concrete justification for a decision, allows to automate the challenging task of generating explanations, and provides explanations that comply with the GDPR legal requirements on this matter. The European Parliamentary Research Service recently came out with [a study](https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_STU(2019)624261) on the opportunities and challenges of *“understanding algorithmic decision-making”*, where the need for explanations is motivated in detail. In their conclusion, they state that *“affected people will probably be more interested in the reasons for the decisions that affect them (local and causal explanations) and how they can influence them (counterfactual explanations)”* 
 
