@@ -8,7 +8,7 @@
 | BEHAVIORAL | [SEDC](https://github.com/ADMAntwerp/edc)                                                                              | Martens and Provost (2014)   |
 |            | [LIME-C](https://github.com/ADMAntwerp/LimeCounterfactual), [SHAP-C](https://github.com/ADMAntwerp/ShapCounterfactual) | Ramon et al (2020)           |
 | IMAGE      | SEDC(-T)                                                                                                               | Vermeire and Martens (2020)  |
-| STRUCTURED | NICE                                                                                                                   | Brughmans and Martens (2021) |
+| STRUCTURED | [NICE](https://github.com/ADMAntwerp/NICE)                                                                                                                   | Brughmans and Martens (2021) |
 
 **Counterfactual explantions provide evidence leading to that decision by the prediction model. More formally, an evidence counterfactual provides a minimum set of evidence present in the data instance to be explained such that removing that evidence would change the decision, and were introduced in the predictive modeling domain by Martens and Provost in 2014. Some examples:**
 
